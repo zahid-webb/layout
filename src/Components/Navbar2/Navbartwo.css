@@ -1,0 +1,18 @@
+.navtwo_main{
+    @apply bg-cyan-950  text-fuchsia-400 text-2xl mt-8
+}
+.navtwo_row{
+    @apply flex justify-between items-center
+}
+.nav_img img{
+    @apply w-20
+}
+.nav_list ul{
+    @apply flex gap-8 decoration-stone-100 
+}
+.search input{
+    @apply bg-transparent border-solid border-2 border-r-amber-50 rounded-l-xl
+}
+.searchbutton{
+    @apply w-16 h-9 bg-amber-300 text-fuchsia-800 rounded-r-xl
+}

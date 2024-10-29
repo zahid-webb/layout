@@ -1,0 +1,12 @@
+.nav_main{
+    @apply bg-black text-slate-400 text-2xl mt-4
+}
+.nav_row{
+    @apply flex justify-between items-center
+}
+.nav_img img{
+    @apply w-20
+}
+.nav_list ul{
+    @apply flex gap-8
+}
